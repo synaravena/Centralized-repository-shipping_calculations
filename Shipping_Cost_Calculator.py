@@ -1,4 +1,3 @@
-# Here is another update by synaravena
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
